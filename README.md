@@ -267,7 +267,7 @@ static void MX_GPIO_Init(void)
 
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
 
-<img width="1021" height="832" alt="circuit" src="https://github.com/user-attachments/assets/06befba9-b00c-4c3f-ac1e-bd821427864b" />
+![circuit](https://github.com/user-attachments/assets/37073d17-6c9a-4916-8c14-259c45eaba63)
 
 
 ## Result :
